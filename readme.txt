@@ -5,5 +5,5 @@ Git tracks changes.
 Git first modify.
 Git second modify.
 Git third modify.
-<<<<<<< HEAD
 Creating a new branch is quick and simple.
+New Insertion!!!!!
