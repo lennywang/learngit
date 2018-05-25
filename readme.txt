@@ -6,6 +6,11 @@ Git first modify.
 Git second modify.
 Git third modify.
 Creating a new branch is quick and simple.
+<<<<<<< HEAD
 New Insertion!!!!!a
 abcd
 12345
+=======
+New Insertion!!!!!
+Git is a free software.
+>>>>>>> master
