@@ -14,3 +14,4 @@ abcd
 New Insertion!!!!!
 Git is a free software.
 >>>>>>> master
+I am the new line.
